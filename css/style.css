@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #000;
+	margin: 0
+	padding: 0;
+	text-align: center
+	color: #000;
+}
+.oneColFixCtr #container {
+	width: 640px;
+	background: #000;
+	margin: 0 auto;
+	border: 0;
+	text-align: left;
+	padding: 0;
+
+}
+.oneColFixCtr #mainContent {
+	padding: 0;
+	border: 0;
+}
